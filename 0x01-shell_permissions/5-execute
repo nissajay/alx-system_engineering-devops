@@ -1,2 +1,2 @@
-#!/bash/pin
-chmod 701 hello
+#!/bin/bash
+chmod u+x hello
